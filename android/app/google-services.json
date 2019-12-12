@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1056091013029",
+    "firebase_url": "https://fm-transportes.firebaseio.com",
+    "project_id": "fm-transportes",
+    "storage_bucket": "fm-transportes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056091013029:android:eacb99e78e9260e44df24c",
+        "android_client_info": {
+          "package_name": "com.example.fm_transportadora_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056091013029-epc62cmdhbs6n16i0uq46bj4cfv9b5dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJsHy1KNs3_FYmQXw5uiXcizrLnjvKURw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056091013029-epc62cmdhbs6n16i0uq46bj4cfv9b5dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056091013029:android:68200496e4c6a92e4df24c",
+        "android_client_info": {
+          "package_name": "com.example.fm_transportes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056091013029-epc62cmdhbs6n16i0uq46bj4cfv9b5dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJsHy1KNs3_FYmQXw5uiXcizrLnjvKURw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056091013029-epc62cmdhbs6n16i0uq46bj4cfv9b5dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
